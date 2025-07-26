@@ -1,0 +1,5 @@
+TO RUN THE PROJECT -
+1) In the terminal of VS Code first type - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+2) Press enter and then type - .\venv\Scripts\activate
+3) Press enter (In case askes to install librosa then type - pip install librosa)
+4) Then the code gets executed. 
